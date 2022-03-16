@@ -1,0 +1,3 @@
+files:
+  - source: /**/en-gb/**/*.php
+    translation: /**/%locale%/**/%original_file_name%
